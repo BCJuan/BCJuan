@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone! I am Juan Borrego a predoctoral fellow at Universitat Autònoma de Barcelona, Spain, and Kostal Eléctrica, S.A. I am currently working on deep learning for microcontrollers with PyTorch and CMSIS, although I also devote some time to other projects related to computer vision or bayesian optimization.
+Hi everyone! I am Juan Borrego-Carazo a predoctoral fellow at Universitat Autònoma de Barcelona, Spain, and Kostal Eléctrica, S.A. I am currently working on deep learning for microcontrollers with PyTorch and CMSIS, although I also devote some time to other projects related to computer vision or bayesian optimization.
 
 I have some works with PyTorch, Ax and CMSIS-NN. If you are interested do not doubt to contact me 😄
 
@@ -36,7 +36,7 @@ You can check my current pulished articles and conferences at :green_book: [**Re
 
 <!-- include list of talks -->
 
-You can also more about what I do in my blog: experiments, learning, development and beyond 📝 [**BCjuan**](https://BCJuan.github.io). 
+You can also more about what I do in my blog: experiments, learning, development and beyond 📝 [**BCJuan**](https://BCJuan.github.io). 
 
 ## 🌱 I’m currently learning ...
 
