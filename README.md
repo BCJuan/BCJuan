@@ -24,6 +24,7 @@ I have some works with PyTorch, Ax and CMSIS-NN. If you are interested do not do
 
 ## 💡 Projects Developed and Contributions
 
+- [**torch2cmsis**](https://github.com/BCJuan/torch2cmsis): Framework for converting neural networks developed with PyTorch to CMSIS-NN.
 - [**SpArSeMod**](https://github.com/BCJuan/SpArSeMod): Framework for microcontroller oriented and automatic neural networks.
 - [**GPyTorch Arc Kernel Implementation**](https://github.com/cornellius-gp/gpytorch/issues/1023): Implementation of [Arc Kernel](https://arxiv.org/abs/1409.4011), a kernel for conditional space modelling in Gaussian Processes. [Merged PR](https://github.com/cornellius-gp/gpytorch/pull/1027)
 - [**FLOP evaluation of RNNs in PyTorch**](https://github.com/sovrasov/flops-counter.pytorch/pull/38): Count of FLOP in Recurrent Neural Networks for latency approximation [Merged PR](https://github.com/sovrasov/flops-counter.pytorch/pull/38)
@@ -40,13 +41,12 @@ You can also more about what I do in my blog: experiments, learning, development
 
 ## 🌱 I’m currently learning ...
 
-+ Reinforcement Learning
++ Android
 + C++
-+ Spark
 
 ## 👯 I’m looking to collaborate on ...
 
-+ [**EPIC-KITCHENS Competition**](https://epic-kitchens.github.io/2020-100) Deadline 23 May 2021. Do not doubt to contact me. Willing to join a team.
++ Open to collaborations and new projects
 
 ## 💻 Open Source Work Stats
 
