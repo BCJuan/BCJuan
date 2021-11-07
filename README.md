@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone! I am Juan Borrego-Carazo a predoctoral fellow at Universitat Autònoma de Barcelona, Spain. I am currently working on deep learning for resource constrained devices. Specifically, my curren projects are about bronchoscopy tracking and unsupervised semantic segmentation.
+Hi everyone! I am Juan Borrego-Carazo a predoctoral fellow at Universitat Autònoma de Barcelona, Spain. I am currently working on deep learning for resource constrained devices. Specifically, my current projects are about bronchoscopy tracking and unsupervised semantic segmentation.
 
 My expertise is with deep neural network development, specialized in optimization and deployment: quantization, pruning, NAS, distillation and efficient operations. If you are interested do not doubt to contact me 😄
 
