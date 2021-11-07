@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone! I am Juan Borrego-Carazo a predoctoral fellow at Universitat Autònoma de Barcelona, Spain. I am currently working on deep learning for microcontrollers with PyTorch and CMSIS, although I also devote some time to other projects related to computer vision or bayesian optimization.
+Hi everyone! I am Juan Borrego-Carazo a predoctoral fellow at Universitat Autònoma de Barcelona, Spain. I am currently working on deep learning for resource constrained devices. Specifically, my curren projects are about bronchoscopy tracking and unsupervised semantic segmentation.
 
-I have some works with PyTorch, Ax and CMSIS-NN. If you are interested do not doubt to contact me 😄
+My expertise is with deep neural network development, specialized in optimization and deployment: quantization, pruning, NAS, distillation and efficient operations. If you are interested do not doubt to contact me 😄
 
 ## 📫 Contact Me on Social Media
 
@@ -41,8 +41,7 @@ You can also more about what I do in my blog: experiments, learning, development
 
 ## 🌱 I’m currently learning ...
 
-+ Android
-+ C++
++ Unsupervised Semantic Segmentation
 
 ## 👯 I’m looking to collaborate on ...
 
